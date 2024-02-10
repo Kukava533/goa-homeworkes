@@ -1,0 +1,2 @@
+print("I met and I made friends with:luka gamgonidze,nika gelenidze")
+print("i think goa academy is:it is the best academy in the whole planet, there is a very attentive and friendly environment here.i thank nika keshelava for creating this ACADEMY. ")
